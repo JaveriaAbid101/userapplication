@@ -1,0 +1,67 @@
+
+.searchInputField{
+    margin-top: 50px;
+    margin-left: 5cm;
+    width: 8cm;
+    height: 20px;
+    padding: 10px 5px;
+    float: left;    
+    font: bold 15px 'lucida sans', 'trebuchet MS', 'Tahoma';
+    border: 0;
+    background: rgb(235, 228, 228);
+    border-radius: 15px 15px;   
+
+    
+
+
+    
+} 
+
+table, tr, td {
+    border: solid #e4b5b5 1px;
+    padding: 5px 20px; 
+    font-size: medium;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 20px;
+    background-color: #ca9d9d6c;
+}
+
+th{
+    padding: 5px 10px;
+}
+  
+table{
+    margin-top: 60px;
+}
+
+
+.myCheckBox{
+    transform: scale(2);
+}
+
+.deleteBtn{
+    padding: 10px;
+    margin-left:10cm ;
+    margin-top: 30px;
+    background: rgb(235, 228, 228);
+    font-family:bold 15px 'lucida sans', 'trebuchet MS', 'Tahoma';
+    font-weight: 800;
+    border-radius: 3px 0 0 3px;
+    border: 2px solid rgba(100, 76, 76, 0.829);
+    background-color: rgba(206, 73, 73, 0.603);
+
+
+   
+
+    
+}
+
+/* .edit_btn{
+    color:rgba(0, 0, 0, 0.699);
+    cursor: pointer;
+} */
+
+.del_btn{
+    color: rgba(36, 23, 23, 0.699);
+    cursor: pointer;
+}
